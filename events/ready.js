@@ -5,8 +5,9 @@ const chalk = require('chalk');
 module.exports = client => {
   var degisenOynuyor = [
     
-    "Youtube/NoblesYT",
-    "v12 Eğlence Altyapı"
+    "Erotik Tavşan",
+    "Eylence Erotik Tavşan"
+             
     
   ]
   
